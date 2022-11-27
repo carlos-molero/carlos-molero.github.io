@@ -1,0 +1,6 @@
+*.html linguist-vendored
+*.less linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+/Rakefile linguist-vendored
+/Gemfile linguist-vendored

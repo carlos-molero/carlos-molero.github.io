@@ -1,0 +1,15 @@
+{% if site.collaborators %}
+<hr />
+<h5>COLLABORATORS</h5>
+<ul class="list-inline">
+  {% for collaborator in site.collaborators %}
+  <li>{{ collaborator.name }}</li>
+  <!-- <img
+    width="40px"
+    height="40px"
+    style="border-radius: 50%; margin-top: 10px"
+    src="https://images.pexels.com/photos/54602/raccoon-bear-zoo-saeugentier-54602.jpeg"
+  /> -->
+  {% endfor %}
+</ul>
+{% endif %}
