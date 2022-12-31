@@ -21,8 +21,6 @@ Read on to find out how I do it!
 
 ## The Gist
 
-The script I use can be found in one of my repositories on GitHub, along with other utilities: [bash-utils](https://github.com/carlos-molero/bash-utils/blob/master/backup.sh).
-
 As you can see, if you have worked with `UNIX` systems in the past, there is nothing too crazy about this script. But let's explain it below anyway.
 
 ```bash
